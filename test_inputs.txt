@@ -1,0 +1,31 @@
+PERSONAL INFORMATION MANAGER - TEST CASES
+
+Test Case 1: Valid favorite food
+Input: Pizza
+Expected Result: Input is accepted.
+Actual Result: Passed
+
+Test Case 2: Valid favorite color
+Input: Red
+Expected Result: Input is accepted.
+Actual Result: Passed
+
+Test Case 3: Empty favorite food
+Input: Press Enter without typing anything
+Expected Result: An error message appears and the program asks again.
+Actual Result: Passed
+
+Test Case 4: Empty favorite color
+Input: Press Enter without typing anything
+Expected Result: An error message appears and the program asks again.
+Actual Result: Not tested yet
+
+Test Case 5: Spaces instead of a valid answer
+Input: Enter spaces only
+Expected Result: An error message appears and the program asks again.
+Actual Result: Not tested yet
+
+Test Case 6: Input containing extra spaces
+Input: "  chocolate  "
+Expected Result: Input is accepted and formatted as Chocolate.
+Actual Result: Not tested yet
